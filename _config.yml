@@ -1,5 +1,7 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: Robot Perception Lab  
+url: https://georgewuzy.github.io  
+baseurl: /kcl-rpl  
+base: '/kcl-rpl'  
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
